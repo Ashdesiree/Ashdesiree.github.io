@@ -1,0 +1,18 @@
+Body{
+   background: linear-gradient(to top left, pink 50%, orange 50%);
+   margin:0px;
+   padding:0px;
+   widrh:100%;
+   height:100vh;
+}
+
+
+
+h1{
+	font-family: lust script;
+	font-size: 2em;
+	color: ghostwhite;
+	text-align: right;
+	margin: 0px;
+	line-height: 100px;
+}
