@@ -1,0 +1,89 @@
+body{
+	background: linear-gradient(
+    to top,
+    orange 0%,
+   orange 50%,
+    pink 50%,
+    pink 100%
+  );
+	padding: 10px;
+	margin: 5px;
+}
+
+
+h1{
+	font-family: lust script;
+	font-size: 10em;
+	color: ghostwhite;
+	text-align: left center;
+	margin: 0px;
+	line-height: 100px;
+}
+
+h2{
+	color: ghostwhite;
+	text-align: right;
+	font-size: 1.5em;
+	font-family: lust script;
+	line-height: 10em;
+}
+
+p{
+	color: ghostwhite;
+	text-align: right;
+	font-size: 1rem;
+	font-family: arial;
+
+}
+
+.borderRight{
+	postion: absolute;
+	border: solid yellow;
+}
+
+#Mālie{
+	float: left;
+
+}
+
+#navigationContainer{
+	overflow: hidden;
+	width: 100%;
+}
+
+#navigation li{
+	display: block;
+	float: right;
+	width: 20%;
+	text-align: left;
+	height: 30px;
+	line-height: 30px;
+	background-color: lightcoral;
+	transition: border, 0.3s;
+	color: ghostwhite;
+
+}
+
+#bio{
+	color: ghostwhite;
+	text-align: right;
+	
+}
+
+#navigation li:hover{
+	color: black;
+}
+#navigation li:active{
+	color: orange;
+}
+
+#Mālie{
+	border: solid yellow;
+	padding: 10px;
+	margin: .5px;
+	border-top-left-radius: 40%;
+	border-top-right-radius: 40%;
+	border-bottom-right-radius: 40%;
+	border-bottom-left-radius: 40%;
+
+}
