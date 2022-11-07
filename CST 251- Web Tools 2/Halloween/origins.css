@@ -1,0 +1,78 @@
+body{
+   background-image: linear-gradient(to bottom right, orange, black);
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+
+header{
+   font-family: 'Creepster', cursive;
+   color: orange;
+   font-size: 8em;
+  text-align:center;
+   background-color: black;
+   border: 10px solid orange;
+}
+
+nav{
+  border: 5px solid orange;
+  background-color:black;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+
+li {
+  display: inline;
+}
+
+button {
+  display: flex;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#originsButton {
+  margin-left: auto;
+  margin-right: auto;
+  margin: 0;
+  
+}
+
+footer {
+  background-color: orange;
+}
+
+#pumpkin-head{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#trict-treats{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#horror-movie{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+
+#mainCarousel {
+  padding: 20px;
+  width: 70%;
+  margin: 0;
+  margin-left: auto;
+  margin-right: auto;
+}
+
