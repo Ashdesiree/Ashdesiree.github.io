@@ -1,0 +1,42 @@
+  body{
+        background-color: #b4a315;
+        background-position: 20px top #8A8E95;
+        background-size: contain;
+        background-repeat: repeat-x;
+
+      }
+      h1{  background-repeat: repeat-x;
+            background-color: #060F87;
+            background-size: contain;
+            color: ghostwhite;
+            text-align: center;
+            padding:  15px;
+            border-bottom: 30px solid darkblue;
+            border-top: 40px solid #8A8E95;
+            margin: 0 10px;
+            Font-family: Lust Script Fine;
+            font-size: 50px;
+      }
+      h2{
+        background-color:  #2D6ED2;
+        background-repeat: repeat-x;
+        background-size: contain;
+        text-align: right;
+        color: yellow;
+
+      }
+      img{
+         border:  4px ;
+          border-radius: 50px 50px;
+          max-width: 100%;
+          height: auto;
+          display: block;
+          margin-left: auto;
+           margin-right: auto;
+
+      }
+
+      body{
+        background-position: bottom #2D6ED2;
+        background-repeat: repeat-x;
+      }

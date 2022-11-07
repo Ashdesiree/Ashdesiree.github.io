@@ -1,0 +1,60 @@
+ 
+#cd-fig{
+	postion:relative;
+}
+
+#cd-fig:hover #cd-overlay{
+	display:block;
+}
+
+#cd-overlay{
+	position:relative;
+	top:10px;
+	left:10px;
+	background-color: rgba(0,0,100,.7);
+	font-size:1.2em;
+	color:white;
+	padding:10px;
+	display:none;
+	height: 150px;
+	overflow:scroll;
+}
+
+footer{
+      background-color: darkblue;
+    }
+	  
+    Main img{
+      with: 300px;
+    }
+
+    footer img{
+      witdh: 200px;
+    }
+	  nav ul{
+		  background-color:cadetblue; 
+	  }
+
+	  h1, h2{
+		  background-color:darkseagreen;
+	  }
+	  
+	  #cd-img{
+		boader-top-left-radius: 40px;
+		  border-top-right-radius: 40px;
+	  }
+	  
+	  #cs-img{
+		  border-bottom-left-radius: 40px;
+			  border-bottom-right-radius: 40px;
+	  }
+	  .minorProgram-img{
+		  border: 2px double green;
+	  }
+	  .degreeProgram-img{
+		  border: 4px double green;
+	  }
+	  
+	  .highlight{
+		  font-size:1.5rem;
+		  background-color:red;
